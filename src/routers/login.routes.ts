@@ -31,7 +31,7 @@ router.post('/', (req: Request, res: Response) => {
 })
 
 router.post('/jwt', (req: Request, res: Response) => {
-	const token = req.headers.authorization
+	const token = req.body.token
 
 	if (!token) {
 		return res.status(401).send({
