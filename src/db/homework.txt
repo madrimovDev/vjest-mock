@@ -1,0 +1,13 @@
+
+	"homework": {
+		"index": 1,
+		"id": "adasdasd",
+		"userId": "123",
+		"homeworkId": "1234",
+		"title": "Homework title",
+		"description": "Lorem Ipsum Dolar Sit",
+		"date": "Date",
+		"isActive": false,
+		"isComplate": true,
+		"rate": 5
+	}

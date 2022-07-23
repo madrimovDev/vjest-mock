@@ -1,0 +1,38 @@
+{
+  "name": "vjest-mock",
+  "version": "0.1.0",
+  "description": "vjest-mock-api",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vjest",
+    "jest",
+    "jest-platform",
+    "ideep",
+    "ideeo",
+    "team"
+  ],
+  "dependencies": {
+    "@types/express": "^4.17.13",
+    "@types/lodash": "^4.14.182",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "swagger-ui-express": "^4.3.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.2",
+    "@types/cors": "^2.8.12",
+    "@types/dotenv": "^8.2.0",
+    "@types/jsonwebtoken": "^8.5.8",
+    "@types/uuid": "^8.3.4"
+  },
+  "author": "madrimov",
+  "license": "ISC"
+}

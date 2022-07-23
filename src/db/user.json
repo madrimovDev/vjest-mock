@@ -1,0 +1,13 @@
+{
+  "user":{
+    "id": "123",
+    "name": "John",
+    "surnname": "Doe",
+    "username": "admin",
+    "password": "admin",
+    "group": 309,
+    "direction": "Web Kids",
+    "rating": 67
+  },
+  "jwt": "BuYerdaJWTAccessTokenBolishiKerak" 
+}
